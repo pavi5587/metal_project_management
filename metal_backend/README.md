@@ -7,8 +7,8 @@ This is the backend server built with Node.js and Express.js for managing Metals
 - CRUD for Purity (linked to static Metal list)
 - Add Metal Rates with historical tracking
 - MongoDB with Mongoose
-- JWT Authentication (optional)
-- Optional: Search/Filter & Pagination
+- JWT Authentication
+- Search/Filter & Pagination
 
 ## ⚙️ Setup Instructions
 
